@@ -8,7 +8,7 @@ void main() {
 }
 //          *** Explanation ***
 /// Basic Counter App (Increase and Decrease the Counter) with BLoc Architecture
-/// BLoC basically consist of two components -> Sink and Streams
+/// BLoC basically consist of 3 components -> Sink and Streams and a Black Box in which magic happens
 /// In Sink we take Events that should be taken care of.
 ///
 /// Here In this example We have taken the basic layout what Flutter give us
