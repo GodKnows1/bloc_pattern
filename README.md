@@ -1,6 +1,7 @@
-# blocpattern
+# blocpattern -> Counter App
 
-A new Flutter application.
+A new Flutter application to depict the BLoC architecture.
+Comments are given in the Dart Files to let you understand the Code and BloC architecture. (I suppose :p)
 
 ## Getting Started
 
